@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">就医平台app</string>
+    <string name="login_userName">用户名:</string>
+    <string name="login_password">密&#160;&#160;&#160;&#160;码:</string>
+    <string name="login_loginBtn">登&#160;&#160;录</string>
+    <string name="login_regBtn">注&#160;&#160;册</string>
+    <string name="login_clearBtn">清&#160;&#160;空</string>
+     <string name="pinglunguanli">医患交流</string>
+      <string name="action_settings">Settings</string>
+    <string name="title_activity_main">就医平台app</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_news">消息中心</string>
+    <string name="title_activity_reg">就医平台app</string>   
+    <string name="title_activity_book">就医平台app</string>
+     <string name="title_activity_goodscar">就医平台app</string>
+    <string name="title_activity_goodsdetail">医生详情</string>
+    <string name="title_activity_newsdetail">消息详情</string>
+    <string name="title_activity_ordercreate">生成订单</string>
+    <string name="title_activity_order">我的订单</string>
+    <string name="OrderDetailActivity">订单详情</string>
+    <string name="OrderDetailGoodsListDetailActivity">就医平台app</string>
+    <string name="gerenxinxi">个人信息</string>
+    
+        <string-array name="fkfs">
+        <item>在线支付</item>
+        <item>货到付款</item>
+    </string-array>
+</resources>

@@ -1,0 +1,147 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgimage"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="60dip"
+        android:background="@drawable/background_div"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            style="@style/title"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:text="就医平台app"
+            android:textColor="#000000"
+            android:textSize="17sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="fill_parent"
+        android:layout_height="36dp"
+        android:layout_marginTop="60dp"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/textView2"
+            style="@style/normalText"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_gravity="bottom"
+            android:gravity="center"
+            android:text="@string/login_userName" />
+
+        <EditText
+            android:id="@+id/etUsername"
+            style="@style/normalText"
+            android:layout_width="150dp"
+            android:layout_height="36dp"
+            android:layout_marginLeft="8dp"
+            android:background="@drawable/bg_edittext"
+            android:ems="10"
+            android:hint="请输入"
+            android:inputType="textPersonName"
+            android:padding="5dip"
+            android:singleLine="true"
+            android:textSize="15sp" >
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="fill_parent"
+        android:layout_height="36dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/textView3"
+            style="@style/normalText"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:gravity="center"
+            android:text="@string/login_password" />
+
+        <EditText
+            android:id="@+id/etPwd"
+            style="@style/normalText"
+            android:layout_width="150dp"
+            android:layout_height="36dp"
+            android:layout_marginLeft="8dp"
+            android:background="@drawable/bg_edittext"
+            android:ems="10"
+            android:hint="请输入"
+            android:inputType="textPassword"
+            android:padding="5dip"
+            android:singleLine="true"
+            android:textSize="15sp" />
+    </LinearLayout>
+    
+      <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center" >
+
+        <RadioGroup
+            android:id="@+id/radioGroup1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/radio0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="病人" />
+
+            <RadioButton
+                android:id="@+id/radio1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="医生" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/loginbtn"
+            android:layout_width="80dp"
+            android:layout_height="28dp"
+            android:layout_gravity="center"
+            android:background="@drawable/green_btn_out"
+            android:text="@string/login_loginBtn"
+            android:textColor="#ffffff"
+            android:textSize="13dp" />
+
+        <Button
+            android:id="@+id/registbtn"
+            android:layout_width="80dp"
+            android:layout_height="28dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/green_btn_out"
+            android:text="@string/login_regBtn"
+            android:textColor="#ffffff"
+            android:textSize="13dp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\news_detail.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\menu\\news_detail.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\reg.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\menu\\reg.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\news_list.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\menu\\news_list.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_list_menu.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\menu\\note_list_menu.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_question.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\menu\\add_question.xml"
+    }
+]

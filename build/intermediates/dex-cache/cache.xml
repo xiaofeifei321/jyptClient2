@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\libs\ezmorph-1.0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="01e55d2a0253ea37745d33062852fd2c90027432">
+        <dex dex="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\pre-dexed\debug\ezmorph-1.0.6_46badeed690987dcca1451e1ab644b65b0d53f55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\libs\mysql-connector-java-5.0.4-bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ce259b62d08cce86a68a8f17f5f9c8218371b235">
+        <dex dex="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\pre-dexed\debug\mysql-connector-java-5.0.4-bin_36ba1bfe42f6f4b8ce23f294e7abb449bc247640.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_03ce9a5f6dbf008659de4cd9cd94c30726de5407.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\libs\fastjson-1.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="fbcf8415e32859b473b336e5ac6422ee69b1185b">
+        <dex dex="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\pre-dexed\debug\fastjson-1.2.4_1b10d5da96964d0ab3e2c46eea06e13690a0cdf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\libs\slf4j-api-1.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e34106d9d126209c508655456857ec903b5636f8">
+        <dex dex="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\pre-dexed\debug\slf4j-api-1.5.2_aeefec273fc90d57f2a7e306f71283114ccb59fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\libs\afinal_0.5.1_bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ae398c74701392473b9cb488c76a92576d6f548c">
+        <dex dex="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\pre-dexed\debug\afinal_0.5.1_bin_1479bb57ab097a8e9c7f5d02af9c1376f1f67faa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\libs\commons-logging-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2d859791fbf7d880591864bd4004d8442a8a3b81">
+        <dex dex="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\pre-dexed\debug\commons-logging-1.1.1_3600b92c62fdbba1c6f62265d1656dd85f3ab176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\libs\commons-lang-2.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="0ce1edb914c94ebc388f086c6827e8bdeec71ac2">
+        <dex dex="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\pre-dexed\debug\commons-lang-2.6_1963198d22ee0d77f22e94034234e9050e8523bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\libs\jspsmartupload.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="aa460db16d9b81f26a496f4a33c87c686b19c37c">
+        <dex dex="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\pre-dexed\debug\jspsmartupload_5ad5b83508c0bfda15cf0f0a9f4f23daba54371b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\libs\slf4j-simple-1.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="cb01be18fde226acfa5af3c1fc9772dcd6d8c478">
+        <dex dex="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\pre-dexed\debug\slf4j-simple-1.5.2_72293a34bc24d47ef5256f1f72c4a2b5c0699714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\libs\servlet-api.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="95da8b717877ed7641a90999a6c90a0597e3311b">
+        <dex dex="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\pre-dexed\debug\servlet-api_424b6b3bde4f9d10e2f1919a5de126969f3d0aa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\libs\commons-fileupload-1.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="fd968960d004ba8863a2e7b9c88f260aa588c22d">
+        <dex dex="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\pre-dexed\debug\commons-fileupload-1.2.1_f162cd720c779fa381836960b3c1b2ce37614061.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\libs\xom-1.2.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="56556f8559f2b502e4ab8abb93f9755d5a204837">
+        <dex dex="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\pre-dexed\debug\xom-1.2.6_c09dd693a14d4538a90c1dc7ed11889a8d540134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\libs\commons-io-1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a8762d07e76cfde2395257a5da47ba7c1dbd3dce">
+        <dex dex="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\pre-dexed\debug\commons-io-1.4_4662e7f7b2f11d4ee1b2a7ef09cc2592b7bed5bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_208ef113676eb825fba1199dc0ea964d413c35c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\SDK\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_76a01ef08f0a2c49aeb0f200dd2fa90bdc062a8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\libs\jstl-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="74aca283cd4f4b4f3e425f5820cda58f44409547">
+        <dex dex="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\pre-dexed\debug\jstl-1.2_f41cc347c08cdb30522601b64ca582737832ced9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\libs\commons-beanutils-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="0c651d5103c649c12b20d53731643e5fffceb536">
+        <dex dex="E:\android\Hospital\OutpatientServiceSystem-master\client\jyptClient2\app\build\intermediates\pre-dexed\debug\commons-beanutils-1.8.0_29efa8a3b99b71ca6d89014585fa75a14c9c186b.jar" />
+    </item>
+
+</items>

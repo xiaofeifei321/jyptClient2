@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/yiliaobg" >
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/yishengzhaopian"
+            android:layout_width="fill_parent"
+            android:layout_height="160dip"
+            android:layout_gravity="center"
+            android:src="@drawable/logo" />
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FFFFFF" />
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dip" >
+
+            <TextView
+                android:gravity="left"
+                android:text="医生姓名:"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/yishengxingming"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:gravity="left"
+                android:text="" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="10dip" >
+
+            <TextView
+                android:gravity="left"
+                android:text="预约名额:"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/yuyueminge"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:gravity="left"
+                android:text="" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="10dip" >
+
+            <TextView
+                android:gravity="left"
+                android:text="坐诊时间:"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/zuozhengshijian"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:gravity="left"
+                android:text="" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dip" >
+
+            <TextView
+                android:gravity="left"
+                android:text="医生简介:"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/yishengjianjie"
+                android:layout_width="220dip"
+                android:layout_height="220dip"
+                android:layout_marginLeft="8dp"
+                android:background="@color/base_start_color_pressed"
+                android:ems="10"
+                android:padding="5dip"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:scrollbars="vertical" />
+        </TableRow>
+
+        <View
+            android:layout_height="2dip"
+            android:background="#FFFFFF" />
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dip" >
+
+            <TextView
+                android:gravity="left"
+                android:text=" " />
+
+            <Button
+                android:id="@+id/yuyuebtn"
+                android:layout_width="10dp"
+                android:layout_height="27dp"
+                android:background="@drawable/buttonbj"
+                android:text="預約"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </TableRow>
+    </TableLayout>
+
+</ScrollView>

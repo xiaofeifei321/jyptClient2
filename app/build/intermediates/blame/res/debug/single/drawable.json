@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_gray_2.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable\\rect_gray_2.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_view_rounded_single.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable\\background_view_rounded_single.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable\\bg_edittext.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_bg_hover.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_gray.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable\\rect_gray.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_view_rounded_bottom.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable\\background_view_rounded_bottom.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dotted_line_2.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable\\dotted_line_2.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dotted_line.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable\\dotted_line.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_view_rounded_top.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable\\background_view_rounded_top.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_view_rounded_middle.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable\\background_view_rounded_middle.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_normal.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable\\bg_edittext_normal.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_bg.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable\\image_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_gray_3.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable\\rect_gray_3.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_focused.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable\\bg_edittext_focused.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_bg.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_div.xml",
+        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable\\background_div.xml"
+    }
+]
