@@ -1,6 +1,150 @@
 [
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_background.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\drawable-hdpi\\top_background.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\txlbg.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\drawable-hdpi\\txlbg.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yiliaobg.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\drawable-hdpi\\yiliaobg.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yao.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\drawable-hdpi\\yao.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_normal.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_btn_background.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\drawable-hdpi\\search_btn_background.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zhengduanlishi.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\drawable-hdpi\\zhengduanlishi.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_top_background.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\drawable-hdpi\\search_top_background.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_background.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\drawable-hdpi\\top_background.xml"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bgimage.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\drawable-hdpi\\bgimage.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topimg.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\drawable-hdpi\\topimg.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yisheng.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\drawable-hdpi\\yisheng.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiaqin.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\drawable-hdpi\\jiaqin.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wodeyuyue.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\drawable-hdpi\\wodeyuyue.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grxx.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\drawable-hdpi\\grxx.png"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_delete.png",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\drawable-hdpi\\search_delete.png"
     }
 ]

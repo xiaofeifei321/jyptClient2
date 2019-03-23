@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: 'org.greenrobot.greendao'
 
 android {
     compileSdkVersion 19
@@ -12,7 +13,7 @@ android {
              exclude 'META-INF/LICENSE'
              exclude 'META-INF/DEPENDENCIES'
          }
-
+    android{compileOptions.encoding="GBK"}
     defaultConfig {
         applicationId "com.myapp.activity"
         minSdkVersion 8

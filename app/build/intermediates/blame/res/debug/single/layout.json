@@ -1,214 +1,218 @@
 [
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_br_yuyue_list_item.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_br_yuyue_list_item.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_userinfo.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_userinfo.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_yuyuelishi_detail.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_yuyuelishi_detail.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_yuyue_detail.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_yuyue_detail.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_yaoping_list_item.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_yaoping_list_item.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_simple_decor.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_userinfo.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_userinfo.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_yuyue_detail.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_yuyue_detail.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_br_yuyue_detail.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_br_yuyue_detail.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_xuanzeyaoping_detail.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_xuanzeyaoping_detail.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yisheng_detail.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_yisheng_detail.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_xuanzeyaoping_detail.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_xuanzeyaoping_detail.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_yisheng_list.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\fragment_yisheng_list.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_main.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_main.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reg.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_reg.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_yisheng_list.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\fragment_yisheng_list.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pic_list_item.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\pic_list_item.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_item.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_main_item.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_yaoping_list.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_yaoping_list.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_br_yuyue_list.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_br_yuyue_list.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_board_add.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_board_add.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_userinfo.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_userinfo.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_yuyue_list_item.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_yuyue_list_item.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_yuyue_list.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_yuyue_list.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_board_list.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_board_list.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_yuyue_list_item.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_yuyue_list_item.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_yaoping_list.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_yaoping_list.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_br_yuyue_list_item.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_br_yuyue_list_item.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yisheng_list_item.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_yisheng_list_item.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_zhengduan_add.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_zhengduan_add.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_zhengduan_add.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_zhengduan_add.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_board_add.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_board_add.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_zhengduanlishi_yaoping_list_item.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_zhengduanlishi_yaoping_list_item.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_item.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_main_item.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yisheng_list.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_yisheng_list.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_simple_decor.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_zhengduanlishi_yaoping_list_item.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_zhengduanlishi_yaoping_list_item.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yisheng_list_item.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_yisheng_list_item.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_board_list_item.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_board_list_item.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_userinfo.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_userinfo.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pic_list_item.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\pic_list_item.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_yuyue_list.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_yuyue_list.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_yuyuelishi_detail.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_yuyuelishi_detail.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_br_yuyue_list.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_br_yuyue_list.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_main.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_main.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_yuyuelishi_yaoping_list_item.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_yuyuelishi_yaoping_list_item.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_br_yuyue_detail.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_br_yuyue_detail.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_yaoping_list_item.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_yaoping_list_item.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_in.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_login_in.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_board_list.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\src\\main\\res\\layout\\activity_board_list.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_board_list_item.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_board_list_item.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yisheng_detail.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_yisheng_detail.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reg.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_reg.xml"
     },
     {
-        "merged": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
-        "source": "E:\\android\\Hospital\\OutpatientServiceSystem-master\\client\\jyptClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yisheng_list.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_yisheng_list.xml"
+    },
+    {
+        "merged": "E:\\android\\android-project\\jyptClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ys_yuyuelishi_yaoping_list_item.xml",
+        "source": "E:\\android\\android-project\\jyptClient2\\app\\src\\main\\res\\layout\\activity_ys_yuyuelishi_yaoping_list_item.xml"
     }
 ]

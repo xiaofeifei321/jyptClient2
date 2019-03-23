@@ -3,7 +3,11 @@
     
     <!-- LIST BORDER COLOR -->
 	<color name="rounded_container_border">#ffb7babb</color>
-
+    <color name="colorPrimary">#909df5</color>
+    <color name="colorPrimaryDark">#7587fc</color>
+    <color name="colorBlue">#fa3e97f5</color>
+    <color name="colorWhite">#fae0ebf7</color>
+    <color name="colorAccent">#FF4081</color>
 	<!-- ITEM BACKGROUND COLOR - STATE - DEFAULT -->
 	<color name="base_start_color_default">#FFFFFF</color>
     <color name="base_end_color_default">#FFFFFF</color>
