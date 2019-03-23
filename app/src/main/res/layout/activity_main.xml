@@ -12,7 +12,7 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
         android:scaleType="fitXY"
-        android:src="@drawable/topimg" />
+        android:src="@drawable/topimg"/>
 
     <LinearLayout
         android:id="@+id/linearLayout1"

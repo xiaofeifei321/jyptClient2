@@ -14,7 +14,7 @@ public class MainActivityAdapter extends BaseAdapter {
 
 	private static final String TAG = "MainGridViewAdapter";
 
-	private String[] names = { "医生列表", "我的预约", "医患交流","个人信息" };
+	private String[] names = { "医生列表", "我的预约", "远程问诊","个人信息" };
 	private int[] icons = { R.drawable.yisheng, R.drawable.wodeyuyue,R.drawable.yao,
 			R.drawable.grxx };
 	private Context context;

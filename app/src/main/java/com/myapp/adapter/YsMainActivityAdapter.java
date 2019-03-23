@@ -15,7 +15,7 @@ public class YsMainActivityAdapter extends BaseAdapter {
 
 	private static final String TAG = "MainGridViewAdapter";
 
-	private String[] names = {"预约列表","诊断历史","医患交流","个人信息" };
+	private String[] names = {"预约列表","诊断历史","远程会诊","个人信息" };
 	private int[] icons = { R.drawable.wodeyuyue,R.drawable.yao, R.drawable.zhengduanlishi,R.drawable.grxx};
 	private Context context;
 	LayoutInflater infalter;

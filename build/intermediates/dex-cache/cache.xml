@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_2a2565d190887fc5db861e192808751321b1b76b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="E:\android\android-project\jyptClient2\app\libs\jstl-1.2.jar"
         jumboMode="false"
         optimize="true"
@@ -15,9 +24,63 @@
         jar="E:\android\android-project\jyptClient2\app\libs\commons-lang-2.6.jar"
         jumboMode="false"
         optimize="true"
+        revision="26.0.0"
+        sha1="0ce1edb914c94ebc388f086c6827e8bdeec71ac2">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\commons-lang-2.6_af70920a3ed8bc59af55db1138ecd717a5c231a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.2.0_6d93dddb4f8151fe6e6d19630418589d9df938ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\libs\fastjson-1.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fbcf8415e32859b473b336e5ac6422ee69b1185b">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\fastjson-1.2.4_c7e84e9b5d9b388d69d79a025f416c1409424c77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_5e789cfd68f51ddae66be3e9d03898d2deb669de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\libs\jspsmartupload.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aa460db16d9b81f26a496f4a33c87c686b19c37c">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\jspsmartupload_e04a6569e94c419ba317966fc2fa0ffbd0240d40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\libs\commons-lang-2.6.jar"
+        jumboMode="false"
+        optimize="true"
         revision="28.0.3"
         sha1="0ce1edb914c94ebc388f086c6827e8bdeec71ac2">
         <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\commons-lang-2.6_af70920a3ed8bc59af55db1138ecd717a5c231a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_edb0cae976b4d48d151ee277af5cd4af9526bd6b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -27,6 +90,15 @@
         revision="28.0.3"
         sha1="2d859791fbf7d880591864bd4004d8442a8a3b81">
         <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\commons-logging-1.1.1_0f80529a0f9ce6769684d78983b4359998020b86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\libs\commons-beanutils-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0c651d5103c649c12b20d53731643e5fffceb536">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\commons-beanutils-1.8.0_e9ce4ac628be799f26b976c7e81e7bc7234781fe.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,6 +120,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_2d14af88f7d1e978d267c0c25751b6cf8aa135a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_50279f95e848820da5d28283b71a3c176618e630.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="E:\android\android-project\jyptClient2\app\libs\mysql-connector-java-5.0.4-bin.jar"
         jumboMode="false"
         optimize="true"
@@ -57,12 +147,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="E:\android\android-project\jyptClient2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jar="E:\android\android-project\jyptClient2\app\libs\commons-logging-1.1.1.jar"
         jumboMode="false"
         optimize="true"
-        revision="28.0.3"
-        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
-        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_5d98ca1909d0d9b898de1adce73641c0e9679b89.jar" />
+        revision="26.0.0"
+        sha1="2d859791fbf7d880591864bd4004d8442a8a3b81">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\commons-logging-1.1.1_0f80529a0f9ce6769684d78983b4359998020b86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_5b85508cfeab1a62eee472b88116e0e85a1b515a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -72,6 +171,24 @@
         revision="28.0.3"
         sha1="aa460db16d9b81f26a496f4a33c87c686b19c37c">
         <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\jspsmartupload_e04a6569e94c419ba317966fc2fa0ffbd0240d40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\libs\slf4j-simple-1.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cb01be18fde226acfa5af3c1fc9772dcd6d8c478">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\slf4j-simple-1.5.2_7113561ffe6a776a9cd50a672a994b0d46053be2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\libs\jstl-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="74aca283cd4f4b4f3e425f5820cda58f44409547">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\jstl-1.2_22b218a7705ad7c74a8279e6c0bef4e3f7da8cd7.jar" />
     </item>
     <item
         is-multidex="false"
@@ -102,10 +219,73 @@
     </item>
     <item
         is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_0f0226225154e481996af6abb1d4aa6d3de0db44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\libs\mysql-connector-java-5.0.4-bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ce259b62d08cce86a68a8f17f5f9c8218371b235">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\mysql-connector-java-5.0.4-bin_93b8f84e80746ead00b1a159b9e19eb7f81c1f63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\libs\xom-1.2.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="56556f8559f2b502e4ab8abb93f9755d5a204837">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\xom-1.2.6_4524d9b6ef7719e9efb0cfc599488d953b58cf1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="E:\android\android-project\jyptClient2\app\libs\commons-io-1.4.jar"
         jumboMode="false"
         optimize="true"
         revision="28.0.3"
+        sha1="a8762d07e76cfde2395257a5da47ba7c1dbd3dce">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\commons-io-1.4_b7640122d51d1d36d452590b41434c740ade0efb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\libs\slf4j-api-1.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e34106d9d126209c508655456857ec903b5636f8">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\slf4j-api-1.5.2_40a89c39128a3dad79721b2381d6bcd44edb66ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_4fe64a0469de9e802c92ec9048399995e04ab677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\libs\servlet-api.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95da8b717877ed7641a90999a6c90a0597e3311b">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\servlet-api_37cb85516edc8ab1a0c9443da0ea4ab2d9e94948.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\libs\commons-io-1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
         sha1="a8762d07e76cfde2395257a5da47ba7c1dbd3dce">
         <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\commons-io-1.4_b7640122d51d1d36d452590b41434c740ade0efb.jar" />
     </item>
@@ -147,6 +327,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\libs\commons-fileupload-1.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fd968960d004ba8863a2e7b9c88f260aa588c22d">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\commons-fileupload-1.2.1_67a121bf7e5c4a3762e75eea84cef63123e8ef6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_07dcd9eb6100553556dd973877a28d6d31d8b439.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="E:\android\android-project\jyptClient2\app\libs\fastjson-1.2.4.jar"
         jumboMode="false"
         optimize="true"
@@ -156,12 +354,57 @@
     </item>
     <item
         is-multidex="false"
-        jar="E:\android\SDK\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jar="E:\android\android-project\jyptClient2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="28.0.3"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_76a01ef08f0a2c49aeb0f200dd2fa90bdc062a8c.jar" />
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_1fdd24840f1f6d5c42732683a72de241f78427f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\libs\ezmorph-1.0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="01e55d2a0253ea37745d33062852fd2c90027432">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\ezmorph-1.0.6_5c05ba4254ba0c18b3d02f1a8acb421012de51e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\libs\afinal_0.5.1_bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ae398c74701392473b9cb488c76a92576d6f548c">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\afinal_0.5.1_bin_30004c53cf3d0c2cbad2564c5ac0ddf49a519db6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.2.0_7f9f830e0fad46b2fa6d7252ed089910ec0cd73b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_20ced3dd2848839513c1ebd7d65d30b65d6bfffa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\android-project\jyptClient2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\android\android-project\jyptClient2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_09c952470d80c1ebb0b0dc25f3adb0a0e7a63b33.jar" />
     </item>
 
 </items>

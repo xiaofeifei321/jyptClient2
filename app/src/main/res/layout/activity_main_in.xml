@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fitsSystemWindows="true"
+        >
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            app:contentScrim="@color/colorPrimaryDark"
+            app:layout_scrollFlags="scroll|snap|exitUntilCollapsed"
+            >
+
+            <ImageView
+                android:fitsSystemWindows="true"
+
+                android:src="@drawable/girl_13"
+                android:scaleType="centerCrop"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:layout_collapseMode="parallax"
+                />
+            <android.support.v7.widget.Toolbar
+                app:title="就医平台"
+                android:id="@+id/mToolBar"
+                app:navigationIcon="@drawable/ic_back"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:layout_collapseMode="pin"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+                app:theme="@style/ActionBarStyle"
+                >
+
+            </android.support.v7.widget.Toolbar>
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        android:layout_height="match_parent">
+
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/bgimage" >
+            <LinearLayout
+                android:visibility="gone"
+                android:id="@+id/linearLayout1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/imageView1"
+                android:background="@drawable/gradient_bg"
+                android:gravity="center" >
+                <TextView
+                    android:id="@+id/logininfo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="25dip"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="!"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <GridView
+                android:id="@+id/gv_all"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="14dip"
+                android:layout_marginTop="25dip"
+                android:numColumns="4"
+                android:verticalSpacing="35dip" >
+            </GridView>
+        </RelativeLayout>
+    </android.support.v4.widget.NestedScrollView>
+</android.support.design.widget.CoordinatorLayout>

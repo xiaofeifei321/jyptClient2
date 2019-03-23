@@ -99,7 +99,7 @@ public class YsYuyueListActivity extends FinalActivity {
 		ajaxParams.put("ysid", String.valueOf(myApp.getYisheng().getId()));
 
 		try {
-			finalHttp.get(HttpUtil.BASE_URL + "YuyueService", ajaxParams,
+			finalHttp.get(HttpUtil.BASE_URL + "/YuyueService", ajaxParams,
 					new AjaxCallBack<Object>() {
 
 						@Override
@@ -119,9 +119,7 @@ public class YsYuyueListActivity extends FinalActivity {
 								yuyuelist1.addAll(yuyueList);
 
 							}
-
 							adapter.notifyDataSetChanged();
-
 						}
 					});
 
