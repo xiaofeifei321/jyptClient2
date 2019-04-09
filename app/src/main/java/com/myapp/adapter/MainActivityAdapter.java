@@ -13,10 +13,12 @@ import android.widget.TextView;
 public class MainActivityAdapter extends BaseAdapter {
 
 	private static final String TAG = "MainGridViewAdapter";
-
-	private String[] names = { "医生列表", "我的预约", "远程问诊","个人信息" };
+   private String[] names = { "医生列表", "我的预约", "个人信息" ,"远程问诊","日程管理","病例介绍"
+	,"就医指南","医院简介","正畸"};
+//	private String[] names = { "医生列表", "我的预约", "远程问诊","个人信息" };
 	private int[] icons = { R.drawable.yisheng, R.drawable.wodeyuyue,R.drawable.yao,
-			R.drawable.grxx };
+			R.drawable.grxx ,R.drawable.yisheng, R.drawable.wodeyuyue,R.drawable.yao,
+		R.drawable.grxx ,R.drawable.grxx};
 	private Context context;
 	LayoutInflater infalter;
 
@@ -50,7 +52,6 @@ public class MainActivityAdapter extends BaseAdapter {
 	// 返回某个位置对应的视图
 	@Override
 	public View getView(int position, View convertView, ViewGroup parent) {
-		Log.i(TAG, "GETVIEW " + position);
 		// 把一个布局文件转换成视图
 		View view = infalter.inflate(R.layout.activity_main_item, null);
 		ImageView iv = (ImageView) view.findViewById(R.id.main_gv_iv);

@@ -8,7 +8,6 @@ android {
         cruncherEnabled = false
         useNewCruncher = false
     }
-
     packagingOptions {
              exclude 'META-INF/LICENSE'
              exclude 'META-INF/DEPENDENCIES'

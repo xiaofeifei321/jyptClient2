@@ -68,133 +68,82 @@
         <activity
             android:name="com.myapp.activity.YishengListActivity"
             android:label="@string/title_activity_book" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.myapp.activity.MainActivity" />
         </activity>
         <activity
             android:name="com.myapp.activity.RegActivity"
             android:label="@string/title_activity_reg" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.myapp.activity.LoginActivity" />
         </activity>
         <activity
             android:name="com.myapp.activity.YishengDetailActivity"
             android:label="@string/title_activity_goodsdetail" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.myapp.activity.GoodsListActivity" />
         </activity>
         <activity
             android:name="com.myapp.activity.BoardListActivity"
             android:label="@string/pinglunguanli" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.myapp.activity.MainActivity" />
         </activity>
         <activity
             android:name="com.myapp.activity.BoardAddActivity"
             android:label="@string/pinglunguanli" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.myapp.activity.BoardListActivity" />
         </activity>
         <activity
             android:name="com.myapp.activity.UserInfoActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.myapp.activity.MainActivity" />
         </activity>
         <activity
             android:name="com.myapp.activity.BrYuyueListActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.myapp.activity.MainActivity" />
         </activity>
         <activity
             android:name="com.myapp.activity.YsYuyueListActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.myapp.activity.YsMainActivity" />
         </activity>
         <activity
             android:name="com.myapp.activity.BrYuyueDetailActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.myapp.activity.YuyueListActivity" />
         </activity>
         <activity
             android:name="com.myapp.activity.YsZhengduanAddActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.myapp.activity.YuyueDetailActivity" />
         </activity>
         <activity
             android:name="com.myapp.activity.YsYuyueDetailActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.myapp.activity.YuyueListActivity" />
         </activity>
         <activity
             android:name="com.myapp.activity.YaopingListActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.myapp.activity.YsMainActivity" />
         </activity>
         <activity
             android:name="com.myapp.activity.XuanzeYaopingListActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.myapp.activity.YsZhengduanAddActivity" />
         </activity>
         <activity
             android:name="com.myapp.activity.XuanzeYaopingDetailActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.myapp.activity.XuanzeYaopingListActivity" />
         </activity>
         <activity
             android:name="com.myapp.activity.YsYuyuelishiListActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.myapp.activity.YuyuelishiDetailActivity" />
         </activity>
         <activity
             android:name="com.myapp.activity.YsYuyuelishiDetailActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.myapp.activity.YsMainActivity" />
         </activity>
         <activity
             android:name="com.myapp.activity.YsUserInfoActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.myapp.activity.YsMainActivity" />
         </activity>
     </application>
 

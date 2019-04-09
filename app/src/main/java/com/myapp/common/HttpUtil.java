@@ -30,7 +30,7 @@ import android.os.Handler;
 public class HttpUtil {
 
 	 
-	public static final String BASE_URL = "http://192.168.0.111:8888/jyptServer/";
+	public static final String BASE_URL = "http://47.100.200.237:8080/jyptServer/";
 
 	public static String getJsonFromServlet(String jsonPara, String servletName) {
 		// 保证json数据不是乱码
